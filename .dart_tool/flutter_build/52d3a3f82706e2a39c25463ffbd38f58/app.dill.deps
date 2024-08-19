@@ -196,6 +196,10 @@ file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/fireb
 file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-2.2.2/lib/src/interop/utils/js.dart
 file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-2.2.2/lib/src/interop/utils/js_interop.dart
 file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-2.2.2/lib/src/interop/utils/utils.dart
+file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_nav_bar-5.0.6/lib/google_nav_bar.dart
+file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_nav_bar-5.0.6/lib/src/button.dart
+file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_nav_bar-5.0.6/lib/src/gbutton.dart
+file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_nav_bar-5.0.6/lib/src/gnav.dart
 file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.5/lib/http.dart
 file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.5/lib/src/base_client.dart
 file:///Users/macbook/developer/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.5/lib/src/base_request.dart
@@ -1210,6 +1214,7 @@ file:///Users/macbook/gitjects/Task%20project/earnify2/lib/adspage.dart
 file:///Users/macbook/gitjects/Task%20project/earnify2/lib/airtimeconvert.dart
 file:///Users/macbook/gitjects/Task%20project/earnify2/lib/colors.dart
 file:///Users/macbook/gitjects/Task%20project/earnify2/lib/createorder.dart
+file:///Users/macbook/gitjects/Task%20project/earnify2/lib/dash.dart
 file:///Users/macbook/gitjects/Task%20project/earnify2/lib/dashboard.dart
 file:///Users/macbook/gitjects/Task%20project/earnify2/lib/firstscreen.dart
 file:///Users/macbook/gitjects/Task%20project/earnify2/lib/forgotpassword.dart
